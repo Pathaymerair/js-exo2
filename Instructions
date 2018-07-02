@@ -1,0 +1,20 @@
+1 - créer un nouveau projet
+2 - Créer un repository git en ligne
+3 - initialisez votre projet git
+    Ne pas oublier de commit chaque étape à partir du point 3
+4 - Créer structure de dossier (html, js,...)
+5 - Initialisez votre console google-chrome dans votre projet sur visual studio
+6 - Configurez le fichier launch.json (pour pouvoir laancer la page index.html et utiliser la console chrome)
+7 - Dans le fichier html lier le fichier js8 - Créer des personnages qui sont: 
+      Un guerrier, 
+        propriété (nom, age, taille, force)
+      un mage, 
+        propriété (nom, age, taille, puissance, arme)
+      un paysan
+        propriété (nom, age, taille,force, arme)
+9 - Créer des variables dans lesquelles vous allez stocker les réponses renvoyées par les objets et méthodes utilisées sur les propriétés.
+10 - Utilisez la propriété : 
+      - lenght
+      - charAt
+      - Une méthode qui permet de choisir un certain nombre de caractère dans une chaine en choisissant l'index de départ et l'index d'arrivée.
+      - Une méthode qui permet de concaténer deux ou plusieurs chaines de caractères
